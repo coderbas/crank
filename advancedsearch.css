@@ -1,0 +1,35 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+
+    border: 60px;
+    margin: 60px;
+
+    border-radius: 60px;
+    background-color: lightslategray;
+    
+}
+body{
+    margin-top: 60px;
+    padding: 40px;
+    text-align: center;
+    background-color: palegreen;
+}
+
+
+
+ul{
+    text-align: right;
+    padding-bottom: 5px;
+}
+svg{
+    margin-top: 5px;
+
+}
+
+div{
+    margin-right: 60px;
+    
+}
